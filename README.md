@@ -36,28 +36,36 @@ In addition, training modules are updated infrequently, making them less respons
 
 For Each Corporate Role:
 
-1. Trainee Gamification Dashboard	
+1. Trainee Gamification Dashboard:
+    
 It consist of step by step level of evaluation programs.
 
-2. Administrator Dashboard	
+2. Administrator Dashboard:
+    
 The administrator can examine the performance of each employee or trainee.
 
-3. Video Content	
+3. Video Content:
+   
 This contains video lectures, documentations for Employee Corporate Role Training.
 
-4. Cards	
+4. Cards:
+    
 The Strategic Thinking & Decision-Making Skills needed for the corporate role is tested from the employee or trainee using Card Interface.
 
-5. Shoot
+5. Shoot:
+   
 The Leadership & People Management Skills needed  for the corporate role is tested from the employee or trainee using Shoot Interface.
 
-6. Cricket	
+6. Cricket:
+    
 The Communication & Stakeholder Management Skills needed for the corporate role is tested from the employee or trainee using Cricket Interface.
 
-7. Forest	
+7. Forest:
+   
 The Execution & Operational Management Skills needed for the corporate role is tested from the employee or trainee using Forest Interface.
 
-8. Case	
+8. Case:
+
 The Case consist of Case Study Questions in which Interpretation Skills and Strategic Thinking Skills needed for the corporate role is tested from the employee and trainee.
 
 ## Architecture Diagram
