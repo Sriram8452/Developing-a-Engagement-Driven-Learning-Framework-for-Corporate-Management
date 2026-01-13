@@ -104,11 +104,17 @@ For Each Corporate Role:
 ## References
 
 1.J. Koivisto, J. Hamari and H. Sarsa, “Does gamification work in real life? Empirical evidence from gamifying a workplace process,” J. Assoc. Inf. Syst., vol. 22, no. 1, pp. 150–178, Jan. 2021.
+
 2.J. Kim, H. Chang and B. S. Bell, “Organizational-level training and performance: A meta-analytic investigation,” J. Manage., vol. 51, no. 4, pp. 1024–1053, 2025.
+
 3.S. Kauffeld, J. Decius and C. Graßmann, “Learning and transfer in organisations: How it works and can be supported,” Eur. J. Work Organ. Psychol., vol. 34, no. 2, pp. 198–221, 2025.
+
 4.P. Tharenou, A. M. Saks and C. Moore, “A review and critique of research on training and organizational-level outcomes,” Hum. Resour. Manage. Rev., vol. 17, no. 3, pp. 251–273, 2007.
+
 5.M. J. Burke and R. R. Day, “A cumulative study of the effectiveness of managerial training,” Acad. Manage. J., vol. 29, no. 2, pp. 232–245, 1986.
+
 6.D. B. Collins and E. F. Holton III, “The effectiveness of managerial leadership development programs: A meta-analysis of studies,” Hum. Resour. Dev. Q., vol. 15, no. 2, pp. 217–248, 2004.
+
 7.K. Kraiger, J. Passmore, N. R. dos Santos and S. Malvezzi, “The science of training and development in organizations: What matters in practice,” Psychol. Sci. Public Interest, vol. 15, no. 2, pp. 74–101, 2014.
 
 
