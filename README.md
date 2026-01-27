@@ -70,7 +70,7 @@ For Each Corporate Role:
 
 ## Architecture Diagram
 
-<img width="1200" height="765" alt="image" src="https://github.com/user-attachments/assets/7aa14ca82-06e1-468d-b05f-17627126c167" />
+<img width="1200" height="765" alt="image" src="https://github.com/user-attachments/assets/7a14ca82-06e1-468d-b05f-17627126c167" />
 
 ## Output
 
